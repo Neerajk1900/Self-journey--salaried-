@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="16" passed="16" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-09-27T14:08:17 IST" name="Suite" finished-at="2023-09-27T14:13:07 IST" duration-ms="290250">
+    <groups>
+    </groups>
+    <test started-at="2023-09-27T14:08:17 IST" name="Test" finished-at="2023-09-27T14:13:07 IST" duration-ms="290250">
+      <class name="com.qa.testcases.LoginPageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qa.testcases.LoginPageTest@70cf32e3]" started-at="2023-09-27T14:08:18 IST" name="setup" finished-at="2023-09-27T14:08:24 IST" duration-ms="5932" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="validateLoginPageUrlTest()[pri:-10, instance:com.qa.testcases.LoginPageTest@70cf32e3]" started-at="2023-09-27T14:08:24 IST" name="validateLoginPageUrlTest" finished-at="2023-09-27T14:08:24 IST" duration-ms="23" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateLoginPageUrlTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.testcases.LoginPageTest@70cf32e3]" started-at="2023-09-27T14:08:24 IST" name="tearDown" finished-at="2023-09-27T14:08:24 IST" duration-ms="269" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qa.testcases.LoginPageTest@70cf32e3]" started-at="2023-09-27T14:08:24 IST" name="setup" finished-at="2023-09-27T14:08:28 IST" duration-ms="3960" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="validateLoginPageTitleTest()[pri:-9, instance:com.qa.testcases.LoginPageTest@70cf32e3]" started-at="2023-09-27T14:08:28 IST" name="validateLoginPageTitleTest" finished-at="2023-09-27T14:08:28 IST" duration-ms="20" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateLoginPageTitleTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.testcases.LoginPageTest@70cf32e3]" started-at="2023-09-27T14:08:28 IST" name="tearDown" finished-at="2023-09-27T14:08:28 IST" duration-ms="242" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qa.testcases.LoginPageTest@70cf32e3]" started-at="2023-09-27T14:08:28 IST" name="setup" finished-at="2023-09-27T14:08:32 IST" duration-ms="3757" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="mobileFieldDisplayedTest()[pri:-8, instance:com.qa.testcases.LoginPageTest@70cf32e3]" started-at="2023-09-27T14:08:32 IST" name="mobileFieldDisplayedTest" finished-at="2023-09-27T14:08:32 IST" duration-ms="38" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mobileFieldDisplayedTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.testcases.LoginPageTest@70cf32e3]" started-at="2023-09-27T14:08:32 IST" name="tearDown" finished-at="2023-09-27T14:08:32 IST" duration-ms="264" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qa.testcases.LoginPageTest@70cf32e3]" started-at="2023-09-27T14:08:32 IST" name="setup" finished-at="2023-09-27T14:08:36 IST" duration-ms="3897" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="mobileFieldEnabledTest()[pri:-7, instance:com.qa.testcases.LoginPageTest@70cf32e3]" started-at="2023-09-27T14:08:36 IST" name="mobileFieldEnabledTest" finished-at="2023-09-27T14:08:36 IST" duration-ms="24" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mobileFieldEnabledTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.testcases.LoginPageTest@70cf32e3]" started-at="2023-09-27T14:08:36 IST" name="tearDown" finished-at="2023-09-27T14:08:36 IST" duration-ms="204" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qa.testcases.LoginPageTest@70cf32e3]" started-at="2023-09-27T14:08:36 IST" name="setup" finished-at="2023-09-27T14:08:40 IST" duration-ms="4062" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="MobileNumberValidationTest()[pri:-6, instance:com.qa.testcases.LoginPageTest@70cf32e3]" started-at="2023-09-27T14:08:40 IST" name="MobileNumberValidationTest" finished-at="2023-09-27T14:08:40 IST" duration-ms="156" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MobileNumberValidationTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.testcases.LoginPageTest@70cf32e3]" started-at="2023-09-27T14:08:40 IST" name="tearDown" finished-at="2023-09-27T14:08:41 IST" duration-ms="180" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qa.testcases.LoginPageTest@70cf32e3]" started-at="2023-09-27T14:08:41 IST" name="setup" finished-at="2023-09-27T14:08:45 IST" duration-ms="4044" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="mobileBlankFieldValidationTest()[pri:-5, instance:com.qa.testcases.LoginPageTest@70cf32e3]" started-at="2023-09-27T14:08:45 IST" name="mobileBlankFieldValidationTest" finished-at="2023-09-27T14:08:45 IST" duration-ms="98" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mobileBlankFieldValidationTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.testcases.LoginPageTest@70cf32e3]" started-at="2023-09-27T14:08:45 IST" name="tearDown" finished-at="2023-09-27T14:08:45 IST" duration-ms="190" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qa.testcases.LoginPageTest@70cf32e3]" started-at="2023-09-27T14:08:45 IST" name="setup" finished-at="2023-09-27T14:08:49 IST" duration-ms="3895" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="CheckboxDisplayedTest()[pri:-4, instance:com.qa.testcases.LoginPageTest@70cf32e3]" started-at="2023-09-27T14:08:49 IST" name="CheckboxDisplayedTest" finished-at="2023-09-27T14:08:49 IST" duration-ms="32" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckboxDisplayedTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.testcases.LoginPageTest@70cf32e3]" started-at="2023-09-27T14:08:49 IST" name="tearDown" finished-at="2023-09-27T14:08:49 IST" duration-ms="184" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qa.testcases.LoginPageTest@70cf32e3]" started-at="2023-09-27T14:08:49 IST" name="setup" finished-at="2023-09-27T14:08:52 IST" duration-ms="3244" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="validatecheckboxTest()[pri:-3, instance:com.qa.testcases.LoginPageTest@70cf32e3]" started-at="2023-09-27T14:08:52 IST" name="validatecheckboxTest" finished-at="2023-09-27T14:08:54 IST" duration-ms="2115" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatecheckboxTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.testcases.LoginPageTest@70cf32e3]" started-at="2023-09-27T14:08:54 IST" name="tearDown" finished-at="2023-09-27T14:08:55 IST" duration-ms="305" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qa.testcases.LoginPageTest@70cf32e3]" started-at="2023-09-27T14:08:55 IST" name="setup" finished-at="2023-09-27T14:08:59 IST" duration-ms="3854" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="validateOTPbuttonClickableTest()[pri:-2, instance:com.qa.testcases.LoginPageTest@70cf32e3]" started-at="2023-09-27T14:08:59 IST" name="validateOTPbuttonClickableTest" finished-at="2023-09-27T14:09:04 IST" duration-ms="5183" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateOTPbuttonClickableTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.testcases.LoginPageTest@70cf32e3]" started-at="2023-09-27T14:09:04 IST" name="tearDown" finished-at="2023-09-27T14:09:04 IST" duration-ms="179" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qa.testcases.LoginPageTest@70cf32e3]" started-at="2023-09-27T14:09:04 IST" name="setup" finished-at="2023-09-27T14:09:08 IST" duration-ms="3759" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="OTPVerificationTimerTest()[pri:-1, instance:com.qa.testcases.LoginPageTest@70cf32e3]" started-at="2023-09-27T14:09:08 IST" name="OTPVerificationTimerTest" finished-at="2023-09-27T14:09:20 IST" duration-ms="12384" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OTPVerificationTimerTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.testcases.LoginPageTest@70cf32e3]" started-at="2023-09-27T14:09:20 IST" name="tearDown" finished-at="2023-09-27T14:09:20 IST" duration-ms="301" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qa.testcases.LoginPageTest@70cf32e3]" started-at="2023-09-27T14:09:20 IST" name="setup" finished-at="2023-09-27T14:09:24 IST" duration-ms="3582" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="panFieldDisplayedTest()[pri:1, instance:com.qa.testcases.LoginPageTest@70cf32e3]" started-at="2023-09-27T14:09:24 IST" name="panFieldDisplayedTest" finished-at="2023-09-27T14:09:55 IST" duration-ms="30915" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- panFieldDisplayedTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.testcases.LoginPageTest@70cf32e3]" started-at="2023-09-27T14:09:55 IST" name="tearDown" finished-at="2023-09-27T14:09:55 IST" duration-ms="248" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qa.testcases.LoginPageTest@70cf32e3]" started-at="2023-09-27T14:09:55 IST" name="setup" finished-at="2023-09-27T14:09:59 IST" duration-ms="3458" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="panFieldClickableTest()[pri:2, instance:com.qa.testcases.LoginPageTest@70cf32e3]" started-at="2023-09-27T14:09:59 IST" name="panFieldClickableTest" finished-at="2023-09-27T14:10:22 IST" duration-ms="23870" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- panFieldClickableTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.testcases.LoginPageTest@70cf32e3]" started-at="2023-09-27T14:10:22 IST" name="tearDown" finished-at="2023-09-27T14:10:23 IST" duration-ms="290" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qa.testcases.LoginPageTest@70cf32e3]" started-at="2023-09-27T14:10:23 IST" name="setup" finished-at="2023-09-27T14:10:27 IST" duration-ms="4035" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="panNumberValidationTest()[pri:3, instance:com.qa.testcases.LoginPageTest@70cf32e3]" started-at="2023-09-27T14:10:27 IST" name="panNumberValidationTest" finished-at="2023-09-27T14:10:55 IST" duration-ms="28626" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- panNumberValidationTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.testcases.LoginPageTest@70cf32e3]" started-at="2023-09-27T14:10:55 IST" name="tearDown" finished-at="2023-09-27T14:10:56 IST" duration-ms="252" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qa.testcases.LoginPageTest@70cf32e3]" started-at="2023-09-27T14:10:56 IST" name="setup" finished-at="2023-09-27T14:10:59 IST" duration-ms="3189" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="ProceedbuttonEnableTest()[pri:4, instance:com.qa.testcases.LoginPageTest@70cf32e3]" started-at="2023-09-27T14:10:59 IST" name="ProceedbuttonEnableTest" finished-at="2023-09-27T14:11:48 IST" duration-ms="48936" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ProceedbuttonEnableTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.testcases.LoginPageTest@70cf32e3]" started-at="2023-09-27T14:11:48 IST" name="tearDown" finished-at="2023-09-27T14:11:48 IST" duration-ms="243" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qa.testcases.LoginPageTest@70cf32e3]" started-at="2023-09-27T14:11:48 IST" name="setup" finished-at="2023-09-27T14:11:51 IST" duration-ms="3176" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="NSDLValidationTest()[pri:5, instance:com.qa.testcases.LoginPageTest@70cf32e3]" started-at="2023-09-27T14:11:51 IST" name="NSDLValidationTest" finished-at="2023-09-27T14:12:32 IST" duration-ms="41209" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NSDLValidationTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.testcases.LoginPageTest@70cf32e3]" started-at="2023-09-27T14:12:32 IST" name="tearDown" finished-at="2023-09-27T14:12:33 IST" duration-ms="313" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qa.testcases.LoginPageTest@70cf32e3]" started-at="2023-09-27T14:12:33 IST" name="setup" finished-at="2023-09-27T14:12:36 IST" duration-ms="3573" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginTest()[pri:6, instance:com.qa.testcases.LoginPageTest@70cf32e3]" started-at="2023-09-27T14:12:36 IST" name="loginTest" finished-at="2023-09-27T14:13:07 IST" duration-ms="30497" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.testcases.LoginPageTest@70cf32e3]" started-at="2023-09-27T14:13:07 IST" name="tearDown" finished-at="2023-09-27T14:13:07 IST" duration-ms="377" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.testcases.LoginPageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
